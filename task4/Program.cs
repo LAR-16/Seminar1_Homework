@@ -9,4 +9,4 @@ int max = a;
 if (a > max ) max = a;
 if (b > max ) max = b;
 if (n > max ) max = n;
-Console.WriteLine(max);
+Console.WriteLine($"max = {max}");
